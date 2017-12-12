@@ -1,5 +1,6 @@
 
 # Ignore all logfiles and tempfiles.
+.gitignore
 .settings
 /target
 /WebContent
