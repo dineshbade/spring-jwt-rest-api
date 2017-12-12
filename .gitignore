@@ -1,6 +1,6 @@
 
 # Ignore all logfiles and tempfiles.
-.setting
+.settings
 /target
 /WebContent
 .classpath
