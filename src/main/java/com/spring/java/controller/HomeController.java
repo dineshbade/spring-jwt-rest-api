@@ -40,7 +40,7 @@ public class HomeController {
 
 	@Autowired
 	UserService userService;
-	@RequestMapping(value = "/customs", method = RequestMethod.POST)
+	@RequestMapping(value = "/custom", method = RequestMethod.POST)
     public String custom() {
         return "customs";
     }
